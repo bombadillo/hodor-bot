@@ -21,6 +21,7 @@ commenceHodoring = ->
 
 hodor = ->
   channelId = channelRetriever.getRandom()
+  console.log "Hodoring #{channelId}"
   hodorer.hodor channelId
 
   setTimeout ->
