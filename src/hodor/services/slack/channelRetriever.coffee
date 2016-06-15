@@ -10,8 +10,12 @@ getRandomChannelId = (channels) ->
   count = 0
   for channel of channels
     if count == randomIndex
-      return channel
+      if channels[channel].members
+        if channels[channel].members.indexOf(slackClient.activeUserId)
+          return channel
     count++
+  
+  getRandomChannelId channels
     
 
 exports = this
