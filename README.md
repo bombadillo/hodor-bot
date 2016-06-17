@@ -1,18 +1,22 @@
 # hodor-bot
 
-Hodor
+[Hodor](docs/TRANSLATED_README.md)
 
 ## Requirements 
 
-Hodor
+[Hodor](docs/TRANSLATED_README.md)
+
+## Setup
+
+[Hodor](docs/TRANSLATED_README.md)
 
 ## Tests
 
-Hodor
+[Hodor](docs/TRANSLATED_README.md)
 
 ## Licence 
 
-Hodor
+[Hodor](docs/TRANSLATED_README.md)
 
 ## Hodor
 
