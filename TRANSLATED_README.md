@@ -19,7 +19,3 @@ None at the moment
 ## Licence 
 
 MIT License
-
-## Hodor
-
-Hodor
